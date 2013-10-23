@@ -1,5 +1,4 @@
 ## Mac crap
-*.DS_Store
 node_modules
 dist
 app/bower_components
